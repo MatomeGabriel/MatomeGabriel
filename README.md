@@ -64,7 +64,7 @@ Experience includes firmware validation, PCB diagnostics, and proximity detectio
 ---
 
 ## 📫 Contact
-- **LinkedIn:** [https://linkedin.com/in/YOUR-LINK ](https://www.linkedin.com/in/matome-montja-538b55127/) 
+- **LinkedIn:** (https://www.linkedin.com/in/matome-montja-538b55127/) 
 - **Email:** montjagabriel@gmail.com
 - **Location:** Gauteng, South Africa  
 
